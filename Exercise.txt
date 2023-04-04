@@ -1,0 +1,17 @@
+1. Explain what the terminal is in your own words.
+
+Terminal is an advance feature only people with tech knowledgement know. I say that because with 
+terminal would be similar to the way we look in the files for our folder and items we have stored in
+our computers but in terminal you can't just  look through your file without know certain commands. 
+There are alot of commands but the common one are "cd" which changes directory/folder. Then you would
+call on  "ls" that displays a list of everything in the folder. 
+
+2. What is the major difference between Git and Github?
+Github is a online storage where you can got all your project. Git is a way to port files from 
+computer and export to your repository when your done adding new code. Github is a server for alot of 
+people. Git is only link from one person's computer.   
+
+3. Why do we use Github?
+We use github because when your in a team there's more than one person working on it. Teammates can 
+folk the skeleton of the project and add their own code without missing up the orginal file. Github 
+you can go to previous version if needed. Makes group projects easier to get it together.
